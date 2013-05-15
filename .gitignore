@@ -1,0 +1,15 @@
+*~
+*.o
+*.la
+*.lo
+*.so
+*.pc
+.*.swp
+Makefile*
+*.pro.user
+moc_*
+gen_*
+.gen
+.moc
+.obj
+mannequin
